@@ -38,11 +38,11 @@ I’m constantly exploring and learning new technologies. Currently focusing on:
 
 Highlights of some of the recent projects I've worked:
 
-1. Built RESTful APIs using Falcon, enabling efficient backend services.  
+1. Designed and deployed containerized applications using **Docker** and **Kubernetes**.
 
 2. Developed Python scripts using Selenium to automate data extraction and web scraping.  
 
-3. Designed and deployed containerized applications using **Docker** and **Kubernetes**.  
+3. Built RESTful APIs using Falcon, enabling efficient backend services.   
 
 ---
 
