@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Chirag! 
 
-![Welcome Banner](https://user-images.githubusercontent.com/xxxxxx/welcome-banner.jpg)
+![Welcome Banner](https://via.placeholder.com/1024x200.png?text=Welcome+to+My+GitHub+Profile)
 
 ### 🚀 Tech Enthusiast | 💻 Software Engineer in the Making | 🔧 DevOps & Cloud Practitioner
 
