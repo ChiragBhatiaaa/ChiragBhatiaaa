@@ -55,7 +55,7 @@ As I work on my master’s degree and hone my skills in software engineering, I�
 I'm always open to connecting and collaborating. Feel free to reach out!
 
 - 📧 Email: cbhatia206@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/chirag-bhatia)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chiragbhatiaa/)
 
 ---
 
