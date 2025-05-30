@@ -4,7 +4,8 @@
 
 ### 🚀 Tech Enthusiast | 💻 Software Engineer in the Making | 🔧 DevOps & Cloud Practitioner
 
-Pursuing my **Master of Science in Computer Science** in the heart of the Bay Area, I thrive at the intersection of innovation and technology. I like to think of myself as a jack of all trades  plus a master of **Cloud Computing, DevOps, and Python**. With hands-on experience and a passion for solving complex problems, I’m driven to build scalable & impactful solutions. Living in Mountain View, I’m constantly energized by the pulse of Silicon Valley and the opportunities it brings to push boundaries and turn bold ideas into reality.
+Pursuing my **Master of Science in Computer Science** in the heart of the Bay Area, I thrive at the intersection of innovation and technology. I like to think of myself as a jack of all trades plus a master of **Cloud Computing, DevOps and Python**. With hands-on experience and a passion for solving complex problems, I’m driven to build scalable, impactful solutions. Living in Mountain View, I’m constantly energized by the pulse of Silicon Valley and the opportunities it brings to push boundaries and turn bold ideas into reality.
+
 ---
 
 ## 🔨 Technologies & Tools
